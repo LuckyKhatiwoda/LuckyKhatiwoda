@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LuckyKhatiwoda
-- 👀 I’m interested in Learning and improvements
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on Python learning
-- 📫 How to reach me : Email me
-- 😄 Pronouns: None
-- ⚡ Fun fact: Likes to pretend acting when alone :D
+- 👋 Hi, I’m Lucky Khatiwoda
+- 👀 I’m interested in Learning Data Science 
+- 🌱 I’m currently based in the UAE
+- 💞️ I’m looking to collaborate with anyone
+- 📫 How to reach me : Luckykhatiwoda09@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: Always Happy
 - 
 
 <!---
